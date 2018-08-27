@@ -1,1 +1,1 @@
-KindlePython is a studyteam for happy learning hacker.
+KindlePython is a study team for happy learning hacker.
